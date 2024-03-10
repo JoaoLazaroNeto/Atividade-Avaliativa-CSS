@@ -1,0 +1,31 @@
+.divpai {
+    width: 600px;
+    height: 600px;
+    background-color: #000000;
+}
+
+.divFA {
+    width: 90%;
+    height: 90%;
+    background-color: #5c5432;
+}
+
+.divparagrafo {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #70DB93;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: rgb(238, 7, 203);
+}
+
+.div2 {
+    width: 80%;
+    height: 20vh;
+    background-color: rgb(255, 208, 0);
+}
+
+.divF2 {
+    width: 70%;
+    height: 10vh;
+    background-color: rgb(255, 0, 0)
+}
